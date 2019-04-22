@@ -48,3 +48,6 @@ The final rankings would be based on your private score which will be published 
 
 * **[Public LB](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/lb)** : **AUC: 0.6604 112th/1342 Rank**
 * **[Private LB](https://datahack.analyticsvidhya.com/contest/ltfs-datascience-finhack-an-online-hackathon/pvt_lb)** : **AUC: 0.66318 118th/1342 Rank**
+
+
+If the above notebook does not render inside github please use this link: https://nbviewer.jupyter.org/github/nineofalltrades/LTFS_Hackathon/blob/master/LTFS_final_solution%20%281%29.ipynb
